@@ -11,8 +11,7 @@
     ],
     "m_Probability": {
       "m_ChanceWeight": 600
-    },
-    "m_ColorTheme": "#06d0eb"
+    }
   },
   {
     "m_Name": "CraftIO",
@@ -25,8 +24,7 @@
     ],
     "m_Probability": {
       "m_ChanceWeight": 30
-    },
-    "m_ColorTheme": "#8f3002"
+    }
   },
   {
     "m_Name": "360 NoScope",
@@ -39,8 +37,7 @@
     ],
     "m_Probability": {
       "m_ChanceWeight": 50
-    },
-    "m_ColorTheme": "#fb620c"
+    }
   },
   {
     "m_Name": "Castle Escape",
@@ -53,8 +50,7 @@
     ],
     "m_Probability": {
       "m_ChanceWeight": 15
-    },
-    "m_ColorTheme": "#724b2b"
+    }
   },
   {
     "m_Name": "TapSter",
@@ -67,7 +63,6 @@
     ],
     "m_Probability": {
       "m_ChanceWeight": 20
-    },
-    "m_ColorTheme": "#ef9d12"
+    }
   }
 ]
