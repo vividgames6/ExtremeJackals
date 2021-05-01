@@ -1,0 +1,73 @@
+[
+  {
+    "m_Name": "Pixel Fury",
+    "m_Descirption": "Pixel Fury is a multiplayer shooter where you can fight against players worldwide! In this FPS you can use wide variety of guns on wide variety of awesome maps!",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.sbs.pixelcombat&hl=ka",
+    "m_IOSUrl": "https://itunes.apple.com/us/app/pixel-fury-multiplayer-fps/id1150002744?mt=8",
+    "m_PackageID": "com.sbs.pixelcombat",
+    "m_ImageUrls": [
+      "https://images-eu.ssl-images-amazon.com/images/I/71UYd9vFhiL.png",
+      "https://cdn.apkmonk.com/logos/com.publish.craft_150x150.png"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 600
+    },
+    "m_ColorTheme": "#06d0eb"
+  },
+  {
+    "m_Name": "CraftIO",
+    "m_Descirption": "Craft.io is a game which lets you explore randomly generated world, construct items ranging from torches, beds and TV to castles, pools or staircases.",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.publish.craft",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.publish.craft",
+    "m_ImageUrls": [
+      "https://cdn.apkmonk.com/logos/com.publish.craft_150x150.png"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 30
+    },
+    "m_ColorTheme": "#8f3002"
+  },
+  {
+    "m_Name": "360 NoScope",
+    "m_Descirption": "360 No Scope is an online multiplayer shooter where you can shoot only after you have completed 360 degree spin.",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.publish.noscope",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.publish.noscope",
+    "m_ImageUrls": [
+      "https://image.winudf.com/v2/image1/Y29tLnB1Ymxpc2gubm9zY29wZV9pY29uXzE1NTA1MjgwNTVfMDMy/icon.png?w=170&fakeurl=1&type=.png"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 50
+    },
+    "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Castle Escape",
+    "m_Descirption": "Are you runner lover ?  Tired of Subways, Temples, Tombs and Pits ? Want something easy, smooth and sample for time pass ?",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.publish.escape",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.publish.escape",
+    "m_ImageUrls": [
+      "https://image.winudf.com/v2/image/Y29tLnB1Ymxpc2guZXNjYXBlX2ljb25fMTUzOTg5NzQxNl8wNTI/icon.png?w=170&fakeurl=1&type=.png"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 15
+    },
+    "m_ColorTheme": "#724b2b"
+  },
+  {
+    "m_Name": "TapSter",
+    "m_Descirption": "Really simple, but not easy at all. Tap as fast as you can. ",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.publish.tapster",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.publish.tapster",
+    "m_ImageUrls": [
+      "https://image.winudf.com/v2/image/Y29tLnB1Ymxpc2gudGFwc3Rlcl9pY29uXzE1MzI5NzAzOTNfMDEy/icon.png?w=170&fakeurl=1&type=.png"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 20
+    },
+    "m_ColorTheme": "#ef9d12"
+  }
+]
