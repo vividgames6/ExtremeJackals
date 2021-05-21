@@ -1,6 +1,5 @@
-[
-  {
-    "BundleID": "com.vividdgames.bus.monster.truck.derby.crash.stunts",
-    "Version": "1.0",
-  }
-]
+{
+  "com.vividdgames.bus.monster.truck.derby.crash.stunts" : "1.0"
+  "2ndBundleID" : "1.1"
+}
+
