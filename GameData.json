@@ -54,5 +54,19 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#fb620c"
+  },
+  {
+    "m_Name": "Spider Wheel Car Robot Game",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.vividdgames.spider.wheel.car.robotgame.dronerobot.fight.game2021",
+    "m_IOSUrl": "",
+    "m_PackageID": "com.vividdgames.spider.wheel.car.robotgame.dronerobot.fight.game2021",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon05.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#fb620c"
   }
 ]
