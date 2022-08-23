@@ -1,19 +1,5 @@
 [
   {
-    "m_Name": "Monster Truck Crash Stunts Demolition Derby 2021",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.vividdgames.monster.truck.jam.driving.madtruck.fearlessstunts.legends.demolition.derby.crashstunts.arena.battle",
-    "m_IOSUrl": "",
-    "m_PackageID": "com.vividdgames.monster.truck.jam.driving.madtruck.fearlessstunts.legends.demolition.derby.crashstunts.arena.battle",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon01.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#06d0eb"
-  },
-  {
     "m_Name": "Scorpion Robot Car Transform",
     "m_Descirption": "a",
     "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.extremeboltfightinggames.scropion.robot.transform.helicopter.robotwars.carshooting",
@@ -26,47 +12,5 @@
       "m_ChanceWeight": 100
     },
     "m_ColorTheme": "#8f3002"
-  },
-  {
-    "m_Name": "Monster Truck Demolition Derby Crash Stunts 2021",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
-    "m_IOSUrl": "",
-    "m_PackageID": "com.vividdgames.monstertruck.demolitionderby.crash.fearlessstunts.adventure.arena.fighting.racing",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon03.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
-    "m_Name": "Monster Tractor Demolition Derby Farm Game 2021",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.vividgames.real.tractor.demolition.derby.farm.fight.games2021",
-    "m_IOSUrl": "",
-    "m_PackageID": "com.vividgames.real.tractor.demolition.derby.farm.fight.games2021",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon04.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
-  },
-  {
-    "m_Name": "Spider Wheel Car Robot Game",
-    "m_Descirption": "a",
-    "m_AndroidUrl": "https://play.google.com/store/apps/details?id=com.vividdgames.spider.wheel.car.robotgame.dronerobot.fight.game2021",
-    "m_IOSUrl": "",
-    "m_PackageID": "com.vividdgames.spider.wheel.car.robotgame.dronerobot.fight.game2021",
-    "m_ImageUrls": [
-      "https://github.com/vividgames6/ExtremeJackals/blob/main/Icon05.jpg?raw=1"
-    ],
-    "m_Probability": {
-      "m_ChanceWeight": 100
-    },
-    "m_ColorTheme": "#fb620c"
   }
 ]
